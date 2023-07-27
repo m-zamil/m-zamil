@@ -1,17 +1,42 @@
-### Hi there 👋
-- I'm Front-End Software Engineer with 3+ years of experience in creating beautiful website and modern user experiences.
+<h3>Intro:</h3>
 
-<!--
-**m-zamil/m-zamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm Muzamil Khan, an experienced Front-End Software Engineer working on implementing UI designs into responsive & clean-coded front-end websites.</p>
 
-Here are some ideas to get you started:
+<h3>Skills:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h4></h4>
+<h4></h4>
+<h4></h4>
+<h4></h4>
+
+<h4>Programming Languages:</h4>
+
+- JavaScript
+
+<h4>Front-End Development:</h4>
+
+- HTML5, CSS3, Sass, SCSS, BEM, Bootstrap, Tailwind CSS, jQuery, React, Redux, Webpack, Babel, gulp,
+
+<h4>Backend Development:</h4>
+
+- node, express
+
+<h4>Database:</h4>
+
+- mongoDB, MySQL, sqlite, elasticsearch
+
+<h4>Data Visualization:</h4>
+
+- Chart.js Canvas JS
+
+<h4>Software:</h4>
+
+- Figma, Adobe Photoshop, Adobe XD, Adobe Illustrator, Sketch, Postman
+
+<h4>Other:</h4>
+
+- Responsive Design & Mobile-First Websites
+- WordPress CMS
+- Performance Optimization and debugging
